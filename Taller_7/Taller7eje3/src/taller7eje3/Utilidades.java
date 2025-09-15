@@ -1,6 +1,6 @@
 package taller7eje3;
 
-public class Operaciones {
+public class Utilidades {
     public static int Suma(int A, int B) {
         return A + B;
     }

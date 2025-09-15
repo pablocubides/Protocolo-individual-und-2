@@ -2,7 +2,7 @@ package taller7eje2;
 
 public class CBancaria {
     private String NCuenta;
-    private double Saldo;
+     double Saldo;
     public String TCuenta;
 
     public CBancaria(String NCuenta, double Saldo, String TCuenta) {
